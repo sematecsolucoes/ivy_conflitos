@@ -2,7 +2,7 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:noNamespaceSchemaLocation="http://ant.apache.org/ivy/schemas/ivy.xsd">
 
-	<info module="agenda" organisation="br.com.caelum" />
+	<info module="agenda" organisation="br.com.sematec" />
 
 	<dependencies>
 	</dependencies>
